@@ -1,5 +1,3 @@
-# .github.io
-Project website
 <!DOCTYPE html>
 <html lang="en">
 <head>
